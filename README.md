@@ -26,7 +26,7 @@ My final dashboard is [Dashboard.xlsx](/Dashboard.xlsx).
 
 ### 📊 **Data Science Job Salaries**
 
-(imagem aqui)
+![](/assets/data_title_salary.PNG)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -63,7 +63,7 @@ My final dashboard is [Dashboard.xlsx](/Dashboard.xlsx).
 
 ### ⏰ **Job Schedule Type Salaries and Count**
 
-(imagem aqui)
+![](/assets/data_schedule_salary.PNG)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -85,3 +85,7 @@ My final dashboard is [Dashboard.xlsx](/Dashboard.xlsx).
     - 👥 Overall usability of the dashboard is enhanced.
 
 (gif aqui)
+
+## **Conclusion**
+
+This dashboard gives us some quick insights into average salaries filtered by country, job title, and programming type. It’s useful for anyone looking for a job in the data field and need some useful information.
