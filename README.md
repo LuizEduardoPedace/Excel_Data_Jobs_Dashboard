@@ -1,6 +1,6 @@
 # **Data Jobs Dashboard**
 
-(gif aqui)
+![](/assets/dashboard_gif.gif)
 
 ## **Introduction**
 
@@ -53,7 +53,7 @@ My final dashboard is [Dashboard.xlsx](/Dashboard.xlsx).
 
 ### 🗺️ **Country Median Salaries**
 
-(gif aqui)
+![](/assets/map_gif.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -79,12 +79,12 @@ My final dashboard is [Dashboard.xlsx](/Dashboard.xlsx).
 
 ## ❎ **Data Validation**
 
+![](/assets/data_validation_gif.gif)
+
 - 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
     - 🎯 User input is restricted to predefined, validated schedule types.
     - 🚫 Incorrect or inconsistent entries are prevented.
     - 👥 Overall usability of the dashboard is enhanced.
-
-(gif aqui)
 
 ## **Conclusion**
 
